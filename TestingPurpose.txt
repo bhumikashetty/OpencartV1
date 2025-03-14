@@ -1,1 +1,7 @@
 This is the new file I'm adding to test
+
+
+test1
+test2
+test3
+
